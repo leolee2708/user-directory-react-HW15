@@ -1,0 +1,19 @@
+
+.databody .col {
+    cursor: pointer;
+    background-color:coral;
+    color: cornsilk;
+}
+
+.databody .col .pointer:after {
+    font-size: 80%;
+    content: "";
+    margin-right: 18px;
+  
+}
+
+.databody .col .pointer:hover:after {
+    font-size: 80%;
+    content: "🔻";
+    margin-right: 0;
+}

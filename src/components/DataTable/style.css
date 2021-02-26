@@ -1,0 +1,14 @@
+.name-holder{
+    text-transform:inherit;
+    background-color:khaki;
+    color: chocolate;
+    font: larger;
+    font-size: larger;
+}
+.phone-holder{
+    color: chocolate;
+}
+
+.DOB-holder {
+    color: chocolate;
+}
