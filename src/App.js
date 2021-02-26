@@ -1,7 +1,8 @@
 import React from 'react';
-import Main from './src/components/main';
-import Wrapper from './src/components/Wrapper';
-import Header from './src/components/Header';
+import Main from './components/main';
+import Wrapper from './components/Wrapper';
+import Header from './components/Header';
+// import DataArea from './components/DataArea';
 import "./App.css";
 
 function App() {
